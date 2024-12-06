@@ -21,7 +21,7 @@ from tqdm import tqdm  # 진행 상태를 시각적으로 확인하기 위해 �
 
 np.random.seed(42)
 # Streamlit 앱 제목
-st.title("Apple Sugar Grade Prediction and Analysis")
+st.title("Apple Sugar Grade Analysis")
 
 # 데이터 불러오기 옵션
 st.subheader("Load Dataset")
