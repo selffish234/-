@@ -1,5 +1,4 @@
-streamlit
-statsmodels
+pip==24.3.1
 streamlit
 statsmodels
 pandas
@@ -7,4 +6,5 @@ numpy
 scikit-learn
 xgboost
 shap
-matplotlib.pyplot
+lime
+matplotlib
